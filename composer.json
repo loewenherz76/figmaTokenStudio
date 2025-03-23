@@ -1,0 +1,10 @@
+{
+  "name": "leonhardbolschakow/figmaTokenStudio",
+  "type": "typo3-cms-extension",
+  "description": "Figma Token Studio - Test Template",
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "figmaTokenStudio"
+    }
+  }
+}
